@@ -1,6 +1,3 @@
-Here's a **detailed introduction to PySpark SQL** — a powerful module in PySpark used for working with structured and semi-structured data using SQL-like syntax or DataFrame APIs.
-
----
 
 ## 🔥 What is PySpark SQL?
 
