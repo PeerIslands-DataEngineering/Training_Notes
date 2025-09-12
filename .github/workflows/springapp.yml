@@ -37,7 +37,7 @@ jobs:
         run: mvn test
 
       - name: Deploy to azure app service
-        uses: azure/webaaps-deploy@v3
+        uses: azure/webapps-deploy@v3
         with:
           app-name: ${{ secrets.AZURE_APP_NAME }}
           package: ./target/*.jar
